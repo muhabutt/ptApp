@@ -11,10 +11,20 @@
 - yarn ios => to run app on ios device
 - yarn web => to run app on web browser http://localhost:8080
 
+# Screenshots
+
+- **Android**
+ 
+ ![Android app](screenShots/android.png?raw=true)
+
+- **iOS**
+
+![iOS app](screenShots/ios.png?raw=true)
 
 
+- **Web**
 
-
+![Web app](screenShots/web.png?raw=true)
 
 
 
