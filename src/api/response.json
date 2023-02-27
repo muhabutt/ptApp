@@ -1,0 +1,79 @@
+{
+  "questions":[
+    {
+      "id": "q1",
+      "question":"You're planning a night out. Which option sounds more fun?",
+      "choices":[
+        {
+          "id": "q1_option1",
+          "group":"introvert",
+          "yourChoice":"Dinner with your best friend — just the two of you — and sharing what's on your mind"
+        },
+        {
+          "id": "q1_option2",
+          "group":"extrovert",
+          "yourChoice":"Going out with a group of friends. The more people, the more energy you feel."
+        }
+      ]
+    },
+    {
+      "id": "q2",
+      "question":"If you were forced to chose one, which would you choose?",
+      "choices":[
+        {
+          "id": "q2_option1",
+          "group":"introvert",
+          "yourChoice":"A weekend with zero social plans"
+
+        },
+        {
+          "id": "q2_option2",
+          "group":"extrovert",
+          "yourChoice":"A weekend packed with social plans"
+        }
+      ]
+    },
+    {
+      "id": "q3",
+      "question":"As a student, would you rather...",
+      "choices":[
+        {
+          "id": "q3_option1",
+          "group":"introvert",
+          "yourChoice":"Listen to an interesting lecture"
+        },
+        {
+          "id": "q3_option2",
+          "group":"extrovert",
+          "yourChoice":"Participate in a lively discussion"
+        }
+      ]
+    },
+    {
+      "id": "q4",
+      "question":"In general, after attending a large party or networking event, how do you feel?",
+      "choices":[
+        {
+          "id": "q4_option1",
+          "group":"introvert",
+          "yourChoice":"Tired and drained, even if I had fun"
+        },
+        {
+          "id": "q4_option2",
+          "group":"extrovert",
+          "yourChoice":"Energized and ready for more"
+        }
+      ]
+    }
+  ],
+  "result": [
+    {
+      "title":"Extrovert",
+      "description":"Extroverts are interested in and concerned with the external world. They gain energy from socializing and being \",out and about.\", Extroverts actually feel restless when they spend too much time alone (or in silence); they're at their best when they can engage outwardly."
+    },
+    {
+      "title":"Introvert",
+      "description":"An introvert is a person with qualities of a personality type known as introversion, which means that they feel more comfortable focusing on their inner thoughts and ideas, rather than what's happening externally. They enjoy spending time with just one or two people, rather than large groups or crowds."
+    }
+  ]
+}
